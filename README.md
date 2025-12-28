@@ -1,6 +1,6 @@
 ## Hi, I'm Saransh Thakran
 
-Electronics and Communication Engg Student at NSUT
+Electronics and Communication Engineering (Artificial Intelligence & Machine Learning) Student at Netaji Subhas University of Technology, New Delhi. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saransh_thakran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saranshthakran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranshthakran@gmail.com) 
